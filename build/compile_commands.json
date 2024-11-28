@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC -o CMakeFiles/laborw12_4.dir/labor12_4.cpp.o -c /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/labor12_4.cpp",
+  "file": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/labor12_4.cpp",
+  "output": "CMakeFiles/laborw12_4.dir/labor12_4.cpp.o"
+},
+{
+  "directory": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/build",
+  "command": "/usr/bin/clang++ -I/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googlemock/include -I/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googlemock -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest/include -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest -g -std=c++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC  -DGTEST_HAS_PTHREAD=1   -o googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googlemock/src/gmock-all.cc",
+  "file": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googlemock/src/gmock-all.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/build",
+  "command": "/usr/bin/clang++ -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googlemock/include -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googlemock -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest/include -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest -g -std=c++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC  -DGTEST_HAS_PTHREAD=1   -o googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googlemock/src/gmock_main.cc",
+  "file": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googlemock/src/gmock_main.cc",
+  "output": "googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/build",
+  "command": "/usr/bin/clang++ -I/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest/include -I/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest -g -std=c++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC  -DGTEST_HAS_PTHREAD=1   -o googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest/src/gtest-all.cc",
+  "file": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest/src/gtest-all.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/build",
+  "command": "/usr/bin/clang++ -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest/include -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest -g -std=c++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIC  -DGTEST_HAS_PTHREAD=1   -o googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest/src/gtest_main.cc",
+  "file": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest/src/gtest_main.cc",
+  "output": "googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+},
+{
+  "directory": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/build",
+  "command": "/usr/bin/clang++ -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest/include -isystem /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/googletest/googletest -g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fPIE -o test/CMakeFiles/labor12_4test.dir/labor12_4test.cpp.o -c /Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/test/labor12_4test.cpp",
+  "file": "/Users/vladislav/Desktop/foruniversity/AP/cds/lb12/Labw12.4/test/labor12_4test.cpp",
+  "output": "test/CMakeFiles/labor12_4test.dir/labor12_4test.cpp.o"
+}
+]
